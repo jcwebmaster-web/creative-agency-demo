@@ -1,0 +1,8 @@
+# Private configuration
+/config.php
+
+# Local and temporary files
+.env
+*.log
+.DS_Store
+Thumbs.db
